@@ -1,10 +1,3 @@
-* **Enzo Rodriguez** - *Initial work* - [EnzoData](https://github.com/EnzoData)
-* **Kevin Urure Cruz** - *Initial work* - [kevinururecruz](https://github.com/kevinururecruz)
-* **Sakshi Solanki** - *Initial work* - [sakshisolanki](https://github.com/sakshisolanki)
-* **Sri Nikhil Surapaneni** - *Initial work* - [srinikhil96](https://github.com/srinikhil96)
-* **Shane Putney** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Pratik** - *Initial work* - [ppratik1995](https://github.com/ppratik1995)
-
 # Topological Data Analytics Project 1
 
 One Paragraph of project description goes here
@@ -79,9 +72,13 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Enzo Rodriguez** - *Initial work* - [EnzoData](https://github.com/EnzoData)
+* **Kevin Urure Cruz** - *Initial work* - [kevinururecruz](https://github.com/kevinururecruz)
+* **Sakshi Solanki** - *Initial work* - [sakshisolanki](https://github.com/sakshisolanki)
+* **Sri Nikhil Surapaneni** - *Initial work* - [srinikhil96](https://github.com/srinikhil96)
+* **Shane Putney** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Pratik** - *Initial work* - [ppratik1995](https://github.com/ppratik1995)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
