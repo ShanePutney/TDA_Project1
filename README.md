@@ -1,5 +1,3 @@
-# TDA_Project1
-
 * **Enzo Rodriguez** - *Initial work* - [EnzoData](https://github.com/EnzoData)
 * **Kevin Urure Cruz** - *Initial work* - [kevinururecruz](https://github.com/kevinururecruz)
 * **Sakshi Solanki** - *Initial work* - [sakshisolanki](https://github.com/sakshisolanki)
@@ -7,7 +5,7 @@
 * **Shane Putney** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Pratik** - *Initial work* - [ppratik1995](https://github.com/ppratik1995)
 
-# Project Title
+# Topological Data Analytics Project 1
 
 One Paragraph of project description goes here
 
