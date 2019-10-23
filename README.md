@@ -1,4 +1,4 @@
-# Topological Data Analytics Project 1
+# Topological Data Analysis Project 1
 
 ## Introduction
 
