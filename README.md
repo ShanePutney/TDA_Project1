@@ -1,10 +1,12 @@
 # Topological Data Analysis Project 1
 
 ## Introduction
+Using the dataset the class created scanning different letters to create an image of 0 and 1, our objective is to build a successful training model to predict letters from the Latin alphabet through the process of persistent homology. 
+Using the notebook Lower Star Image Filtrations from ripser.py we’re identifying 0-Dimensional classes in each letter to classify them through their Euclidean coordinates.
 ### what our obejctive is 
 ### types of scans-Enzo
-
-## Algorithm
+In the folder linked below, we provide different examples of how different scanning methods we used were performed. There are examples of scanning the imagles left to right, right to left, and then using different techniques we were able to invert the image and perform scans going up to down, and down to up. 
+#### [scanning_dictionary.pdf](https://github.com/EnzoData/TDA_Project1/tree/master/Scanning%20Methods)
 ### what the algorithm is;
 ### drawbacks of algorithm-Shane
 
