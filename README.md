@@ -7,6 +7,7 @@ Using the notebook Lower Star Image Filtrations from ripser.py we’re identifyi
 ### types of scans-Enzo
 In the folder linked below, we provide different examples of how different scanning methods we used were performed. There are examples of scanning the imagles left to right, right to left, and then using different techniques we were able to invert the image and perform scans going up to down, and down to up. 
 #### [scanning_dictionary.pdf](https://github.com/EnzoData/TDA_Project1/tree/master/Scanning%20Methods)
+#### [scanning_dictionary.ipynb](https://github.com/EnzoData/TDA_Project1/tree/master/Scanning%20Examples)
 ### what the algorithm is;
 ### drawbacks of algorithm-Shane
 
