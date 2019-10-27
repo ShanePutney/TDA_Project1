@@ -3,7 +3,7 @@
 ## Introduction
 It is apparent that within the field of Data Science, Topology is starting to be heavily used for data analysis. Our main focus for this project is classification. Our objective is to build a successful training model to predict letters from the Latin alphabet through the process of persistent homology. Before delving into our process for achiving our objective, let's first identify and define some key concepts that will be used. 
 
--(Pratik and sri Nikhil please explain and define the following)
+-Pratik and sri Nikhil please explain and define the following
 persistent homology 
 persistant homology of a filtration 
 pairwise bottleneck distance
