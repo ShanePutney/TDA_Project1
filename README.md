@@ -10,8 +10,8 @@ Now, the following is a brief summary of what will be done to hopefully achieve 
 
 ### Types of Scans
 In the folder link below, there are examples of scanning methods used on the latin alphabet. These scanning methods are as follows: left to right, right to left,  top to bottom with each letter rotated 90 degrees, and bottom to top with each letter rotated 90 degrees. 
-#### [scanning_dictionary.pdf](https://github.com/EnzoData/TDA_Project1/tree/master/Scanning%20Methods)
-#### [scanning_dictionary.ipynb](https://github.com/EnzoData/TDA_Project1/tree/master/Scanning%20Examples)
+#### [Scanning (pdf)](https://github.com/EnzoData/TDA_Project1/tree/master/Scanning%20Methods)
+#### [Scanning (ipynb)](https://github.com/EnzoData/TDA_Project1/tree/master/Scanning%20Examples)
 
 
 ## Algorithm
