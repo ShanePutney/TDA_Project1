@@ -10,6 +10,7 @@ In the folder linked below, we provide different examples of how different scann
 #### [scanning_dictionary.pdf](https://github.com/EnzoData/TDA_Project1/tree/master/Scanning%20Methods)
 #### [scanning_dictionary.ipynb](https://github.com/EnzoData/TDA_Project1/tree/master/Scanning%20Examples)
 ## Algorithm
+(code submitted)
 
 
 ## Experiments
@@ -20,6 +21,7 @@ why we went from 8 scans to 4 scans with 5 density scans
 robustness 
 From the algorithm produced and the results, we can see that classification was sucessful on the original 26 letter
 
+## Criticism
 
 ## Literature Review
 
