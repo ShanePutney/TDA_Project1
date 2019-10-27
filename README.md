@@ -5,7 +5,7 @@ It is apparent that within the field of Data Science, Topology is starting to be
 
 
 Now, the following is a brief summary of what will be done to hopefully achieve the objective of classification and prediction. A dataset will be created by reading 10x10 pixel images for each letter in the latin alphabet, which can be found in 
-#### [Latin Alphabet(pdf)](https://github.com/EnzoData/TDA_Project1/tree/master/Latin%20Alphabet]
+#### [Latin Alphabet(pdf)](https://github.com/EnzoData/TDA_Project1/tree/master/Latin%20Alphabet)
 where the pixel values are 0 if there is no part of the letter and 1 otherwise.  Using the notebook Lower Star Image Filtrations from ripser.py we’re identifying 0-Dimensional classes in each letter to classify them through their Euclidean coordinates.
 
 #### [Lower_Star_Image_filtrations](https://ripser.scikit-tda.org/Lower%20Star%20Image%20Filtrations.html)
