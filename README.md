@@ -1,7 +1,11 @@
 # Topological Data Analysis Project 1
 
 ## Introduction
-It is apparent that within the field of Data Science, Topology is beginning to be heavily used for data analysis. Our main focus for this project is classification. Our objective is to build a successful training model to predict letters from the Latin alphabet through the process of persistent homology. Using the notebook Lower Star Image Filtrations from ripser.py we’re identifying 0-Dimensional classes in each letter to classify them through their Euclidean coordinates.
+It is apparent that within the field of Data Science, Topology is beginning to be heavily used for data analysis. Our main focus for this project is classification. Our objective is to build a successful training model to predict letters from the Latin alphabet through the process of persistent homology. Before delving in our process for achiving our objective, let's first identify and define some key concepts that will be used. 
+
+
+
+Using the notebook Lower Star Image Filtrations from ripser.py we’re identifying 0-Dimensional classes in each letter to classify them through their Euclidean coordinates.
 A dataset created by reading a 10x10 pixel image for each letter in the latin alphabet where the pixel values are 0 if there is no part of the letter and 1 otherwise. 
 #### [Lower_Star_Image_filtrations](https://ripser.scikit-tda.org/Lower%20Star%20Image%20Filtrations.html)
 
