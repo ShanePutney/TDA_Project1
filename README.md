@@ -17,7 +17,7 @@ In the folder link below, there are examples of scanning methods used on the lat
 ## Algorithm
 In the following folder, the code used to classify letters can found
 
-#### .[scanning_dictionary.ipynb](https://github.com/EnzoData/TDA_Project1/tree/master/Algorithm)
+#### [Algorithm](https://github.com/EnzoData/TDA_Project1/tree/master/Algorithm)
 
 
 ## Experiments
